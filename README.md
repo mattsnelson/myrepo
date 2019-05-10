@@ -4,4 +4,4 @@ i wrote this in nano editor - part of Git for Windows
 another line
 
 doing a branch test in gitkraken
-and another line 
+and another line writing from macbook
