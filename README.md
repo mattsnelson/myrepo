@@ -8,3 +8,6 @@ and another line writing from macbook
 
 
 And finally, here's a line of code I did in RStudio from my macbookmarch 2020 - setting up git and rstudio on mbp again
+
+
+edited from MBP in Rstudio - and updating via git.
