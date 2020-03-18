@@ -7,4 +7,4 @@ doing a branch test in gitkraken
 and another line writing from macbook
 
 
-And finally, here's a line of code I did in RStudio from my macbook
+And finally, here's a line of code I did in RStudio from my macbookmarch 2020 - setting up git and rstudio on mbp again
