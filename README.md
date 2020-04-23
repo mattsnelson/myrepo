@@ -1,13 +1,8 @@
 # myrepo
-connecting R to git
-i wrote this in nano editor - part of Git for Windows
-another line
 
-doing a branch test in gitkraken
-and another line writing from macbook
+This is a general test repo, use for a variaty of things:
+ - checking that Rstudio can connect across various machines/servers
+ - getting comfortable using git commits
+ - and most recently, figuring out this branching business.
 
-
-And finally, here's a line of code I did in RStudio from my macbookmarch 2020 - setting up git and rstudio on mbp again
-
-
-edited from MBP in Rstudio - and updating via git.
+Thanks for stopping by y'all!
