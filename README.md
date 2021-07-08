@@ -6,3 +6,5 @@ This is a general test repo, use for a variaty of things:
  - and most recently, figuring out this branching business.
 
 Thanks for stopping by y'all!line from terminal in Rstudio on 2021-07-08
+
+testing when it's on my USB
